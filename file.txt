@@ -1,1 +1,1 @@
-line added in the file as part of first commit
+new line added in file in the secound commit 
